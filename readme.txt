@@ -20,7 +20,7 @@ Before you begins, ensure that you have met the following requirements:
 
 Getting Started
 1. clone this repository to you local computer
-git clone https://https://github.com/Womath/WoB-Task-Reporting-System.git
+git clone https://github.com/Womath/WoB-Task-Reporting-System.git
 
 2. change directory to the project folder
 cd WoB-Task-Reporting-System
