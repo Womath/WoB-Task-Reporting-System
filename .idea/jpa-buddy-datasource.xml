@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JpbDataSourceConfig">
+    <data-sources>
+      <data-source id="2de0c399-c7e5-47f0-afe8-2815a71a838f" name="WoB-Task-Reporting-System" url="jdbc:postgresql://localhost/8080" driverClass="org.postgresql.Driver" />
+      <data-source id="82e6ab90-fb3a-4bfb-a6a0-f2c04b65089f" name="Database Connection" url="jdbc:postgresql://localhost:5432/listings_database" driverClass="org.postgresql.Driver" />
+    </data-sources>
+  </component>
+</project>

@@ -1,0 +1,12 @@
+package tvarfalvi.reportapplication;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class ReportListingApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(ReportListingApplication.class, args);
+    }
+}
